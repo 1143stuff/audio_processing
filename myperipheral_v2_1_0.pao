@@ -1,0 +1,12 @@
+##############################################################################
+## Filename:          C:/Users/Aravind/Dropbox/Embedded_System_Design/d3/deadline3/pcores/myperipheral_v1_00_a/data/myperipheral_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Tue Nov 11 16:09:36 2014 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_slave_burst_v1_00_a  all 
+lib myperipheral_v1_00_a user_logic verilog
+lib myperipheral_v1_00_a fft_wrapper verilog
+lib myperipheral_v1_00_a fft_core verilog
+lib myperipheral_v1_00_a myperipheral vhdl
