@@ -104,7 +104,7 @@ int main()
 					//printf("%d\n", magnitude[count][i]);
 				}
 
-				if(noise_count >= 8)
+				if(noise_count > 8)
 				{
 					myaverage();
 				}
